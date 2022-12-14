@@ -1,0 +1,41 @@
+h1{
+    font-size: 50px;
+    color:purple;
+    font-family:Courier, monospace;
+    margin: 0px;
+}
+h2{
+    font-size: 25px;
+    color:red;
+    font-family:Courier, monospace;
+}
+h3{
+    font-size: 15px;
+    color:blue;
+    font-family:Courier, monospace;
+    text-align: justify;
+}
+h4{
+    font-size: 25px;
+    color:rgb(0, 255, 200);
+    font-family:Courier, monospace;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h5{
+    font-size: 15px;
+    color:rgb(255, 0, 179);
+    font-family:Courier, monospace;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+h6{
+    font-size: 100px;
+    color:rgb(38, 0, 255);
+    font-family:Courier, monospace;
+    margin-top: 50px;
+}
+img {
+border-radius: 15%;
+margin-left: 80px;
+}
