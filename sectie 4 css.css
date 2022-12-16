@@ -1,0 +1,15 @@
+
+h1{
+    color: darkgreen;
+    font-size: 25px;
+}
+
+p{
+    color: green;
+    font-weight: 100;
+    font-size: 25px;
+    word-spacing: 1ex;
+    max-width: 1000px;
+    text-align: justify;
+    line-height: 1.6;
+ }

@@ -1,0 +1,165 @@
+@font-face{
+    font-family: Mukta;
+    src: url(Mukta-Medium.ttf)
+}
+.h1{
+    font-family: Mukta
+}
+
+opdracht3
+#div1{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+opdracht4
+.h2{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+}
+
+opdracht5
+#afbeelding{
+    width: 100%;
+    height: 50%;
+    background-image: url(Tijger2.jpg);
+}
+
+opdracht6
+.a{
+    text-transform: uppercase;
+}
+
+opdracht7
+.B{
+    text-transform: lowercase;
+}
+.h3{
+    text-transform: lowercase;
+}
+
+opdracht8
+.h3{
+    font-size: 25px;
+    color: purple;
+}
+.h4{
+    font-size: 25px;
+    color: green;
+}
+
+opdracht9
+.button{
+    color: rgb(255, 255, 255);
+}
+.button:hover{
+    color: rgb(200, 0, 255);
+}
+
+opdracht10
+.h23{
+    width: 24%;
+    height: 100px;
+}
+
+opdracht11
+#een{
+    width: 70%;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    top: 200px;
+}
+#twee{
+    width: 70%;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#drie{
+    height: 400px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+opdracht12
+img{
+    width: 24%;
+    height: 200px;
+}
+img:hover{
+    transform: scale(1.2);
+    transition-delay: 0.5s;
+}
+
+opdracht13
+#wrapper {
+    display: flex;
+    width: 50%;
+    height: 33%;
+    margin-left: 25%;
+    margin-top: 200px;
+}
+#een {
+    width: 50%;
+    background-image: url(Tijger2.jpg);
+}
+#twee {
+    width: 50%;
+    float: right;
+    float: top;
+}
+
+.h7{
+    font-size: 25px;
+    margin: 20px;
+    text-align: center;
+}
+.h8{
+    font-size: 15px;
+    font-weight: 100;
+    margin: 20px;
+    text-align: justify;
+}
+
+opdracht14
+#wrapper {
+    display: flex;
+    width: 50%;
+    height: 33%;
+    margin-left: 25%;
+    margin-top: 200px;
+}
+#first {
+    width: 50%;
+    background-image: url(tijger3.jpeg);
+}
+#second {
+    width: 50%;
+    float: right;
+    float: top;
+    padding: 20px;
+}
+
+.h9{
+    font-size: 25px;    
+    text-align: center;
+}
+.h10{
+    font-size: 15px;
+    font-weight: 100;    
+    text-align: justify;
+}
+
+button{
+    background-color: rgb(255, 211, 124);
+    border-radius: 12px;
+    border-color: orange;
+}
+
